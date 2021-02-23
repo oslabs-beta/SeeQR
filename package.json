@@ -1,7 +1,7 @@
 {
   "name": "seeqr",
   "productName": "SeeQR App",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "SeeQR",
   "main": "./tsCompiled/backend/main.js",
   "babel": {

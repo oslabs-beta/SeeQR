@@ -1,7 +1,7 @@
 {
   "name": "seeqr",
   "productName": "SeeQR App",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "SeeQR",
   "main": "./tsCompiled/backend/main.js",
   "babel": {
@@ -11,6 +11,7 @@
     ]
   },
   "scripts": {
+    "postinstall": "electron-builder install-app-deps",
     "build": "cross-env NODE_ENV=production tsc && cross-env NODE_ENV=production webpack",
     "start": "cross-env NODE_ENV=production electron --noDevServer .",
     "dev": "run-p tsc-dev electron-dev webpack-dev",

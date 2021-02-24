@@ -1,7 +1,7 @@
 {
   "name": "seeqr",
   "productName": "SeeQR App",
-  "version": "3.0.7",
+  "version": "3.0.0-beta1",
   "description": "SeeQR",
   "main": "./tsCompiled/backend/main.js",
   "babel": {
@@ -21,7 +21,7 @@
     "test": "jest --verbose",
     "electron-build": "electron-builder"
   },
-  "repository": "github:Claudiohbsantos/SeeQR",
+  "repository": "github:oslabs-beta/SeeQR",
   "keywords": [],
   "author": "Team SeeQR",
   "license": "MIT",

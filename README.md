@@ -28,6 +28,7 @@
 
 ## Beta Phase
 
+
 SeeQR is still in BETA. Additional features, extensions, and improvements will continue to be introduced. If you encounter any issues with the application, please report them in the issues tab or submit a PR. Thank you for your interest!
 
 ## Getting Started
